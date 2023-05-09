@@ -10,9 +10,8 @@ https://youtu.be/wLlHR4s7ga0
 
 ### Steps
 1. Clone this project
-2. cd into src/rest_api
-3. RUN `sudo docker compose up`
-4. Browse to `http://localhost:8000`
+2. RUN `sudo docker compose up`
+3. Browse to `http://localhost:8000`
 
 ## How to run (Manual)
 ### Software Requirements
@@ -23,9 +22,8 @@ https://youtu.be/wLlHR4s7ga0
 
 ### Steps
 1. Clone this project
-2. cd into src/rest_api
-3. RUN `chmod +x install.sh setup.sh start.sh `
-4. RUN `./install.sh`
-5. RUN `./start.sh`
-6. Browse to `http://localhost:8000`
+2. RUN `chmod +x install.sh setup.sh start.sh `
+3. RUN `./install.sh`
+4. RUN `./start.sh`
+5. Browse to `http://localhost:8000`
 
