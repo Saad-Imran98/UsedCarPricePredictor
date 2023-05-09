@@ -1,0 +1,30 @@
+.spacer {
+    aspect-ratio: 2/1;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+html body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.header{
+    margin: 0;
+    padding: 0;
+}
+
+.App {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+}

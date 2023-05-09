@@ -1,0 +1,36 @@
+.chartDiv{
+    display: flex;
+    width: 100%;
+}
+
+.aboutText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.chart {
+    width: 80%;
+    height: 50%;
+}
+
+.titleSpacer {
+    margin-bottom: 10px;
+}
+
+#modal-modal-title {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+/*.box img {*/
+/*    width: 100px;*/
+/*    height: 100px;*/
+/*}*/
