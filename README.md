@@ -1,5 +1,7 @@
 # Final Year Project
 
+![ui overview](ui_overview.png "UI Overview")
+
 # Demo Video
 https://youtu.be/wLlHR4s7ga0
 
